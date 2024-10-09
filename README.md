@@ -11,7 +11,7 @@
 ## 安裝與使用
 
 1. 克隆此專案到本地端：
-   ```besh
+   ```bash
     git clone https://github.com/rax0609/C-sharp-School.git
    ```
 3. 使用 Visual Studio 開啟專案檔 `2024_WpfApp3.sln`。
