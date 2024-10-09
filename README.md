@@ -32,7 +32,3 @@
 3. 提交您的修改 (`git commit -m 'Add some AmazingFeature'`)。
 4. 推送到分支 (`git push origin feature/AmazingFeature`)。
 5. 打開一個 Pull Request。
-
-## 授權
-
-此專案採用 MIT 授權。詳情請參閱 [LICENSE](LICENSE) 檔案。
